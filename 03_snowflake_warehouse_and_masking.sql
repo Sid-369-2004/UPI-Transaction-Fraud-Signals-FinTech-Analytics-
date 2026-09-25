@@ -1,6 +1,8 @@
 -- ===============================================================================
 -- CAPSTONE PROJECT: TOPIC 06 - UPI TRANSACTION FRAUD SIGNALS
 -- SNOWFLAKE PRODUCTION WAREHOUSE SETUP, DYNAMIC DATA MASKING & ANALYTICAL SUITE
+-- Student Name: Siddharth Sonkar
+-- Roll Number:  23051628
 -- ===============================================================================
 
 -- -------------------------------------------------------------------------------

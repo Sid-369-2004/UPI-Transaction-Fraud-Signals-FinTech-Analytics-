@@ -1,5 +1,7 @@
 # 💳 UPI Transaction Fraud Signals — FinTech & Analytics Capstone
 
+**Student Name:** Siddharth Sonkar | **Roll Number:** 23051628
+
 [![Databricks](https://img.shields.io/badge/Databricks-PySpark-red.svg)](https://databricks.com/)
 [![Snowflake](https://img.shields.io/badge/Snowflake-Data%20Warehouse-blue.svg)](https://www.snowflake.com/)
 [![Python](https://img.shields.io/badge/Python-3.12-blue)](https://www.python.org/)

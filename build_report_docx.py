@@ -87,9 +87,10 @@ def create_report(output_file="Project/Capstone_Project_Report_UPI_Fraud_Signals
     run_sub.font.color.rgb = RGBColor(71, 85, 105)
 
     # Metadata Table
-    meta_tbl = doc.add_table(rows=4, cols=2)
+    meta_tbl = doc.add_table(rows=5, cols=2)
     meta_tbl.alignment = WD_TABLE_ALIGNMENT.CENTER
     meta_data = [
+        ("Student Name & Roll No:", "Siddharth Sonkar | Roll No: 23051628"),
         ("Domain:", "FinTech & Financial Payments Analytics"),
         ("Architecture:", "Databricks PySpark Medallion Architecture (Bronze -> Silver -> Gold) + Snowflake SQL Warehouse"),
         ("Security Controls:", "Snowflake Dynamic Data Masking (SHA-256 + Role-Based Access Control - FRAUD_OPS / ANALYST)"),

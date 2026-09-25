@@ -3,9 +3,10 @@
 CAPSTONE PROJECT: TOPIC 06 - UPI TRANSACTION FRAUD SIGNALS
 DATABRICKS MEDALLION PIPELINE (PYSPARK IMPLEMENTATION)
 ===============================================================================
-Author: Enterprise Data Engineering Team
+Student Name: Siddharth Sonkar
+Roll Number:  23051628
 Catalog / Schema / Volume Setup:
-  MY_ID = "student_capstone"
+  MY_ID = "23051628_SiddharthSonkar"
   VOL = f"/Volumes/workspace/capstone_{MY_ID}/raw"
 
 Architecture:

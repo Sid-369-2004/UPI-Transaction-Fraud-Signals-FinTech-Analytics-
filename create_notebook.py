@@ -13,7 +13,8 @@ def build_notebook(output_file="Project/Databricks_Notebook_UPI_Fraud_Signals.ip
                 "source": [
                     "# CAPSTONE PROJECT: TOPIC 06 - UPI TRANSACTION FRAUD SIGNALS\n",
                     "## Enterprise Medallion Data Engineering Pipeline on Databricks & Snowflake\n",
-                    "**Author:** Data Engineering Team  \n",
+                    "**Student Name:** Siddharth Sonkar  \n",
+                    "**Roll Number:** 23051628  \n",
                     "**Domain:** FinTech & Financial Payments Analytics  \n",
                     "**Target Platform:** Databricks (PySpark / Delta Lake) + Snowflake (SQL Warehouse)\n"
                 ]
@@ -33,7 +34,7 @@ def build_notebook(output_file="Project/Databricks_Notebook_UPI_Fraud_Signals.ip
                 "outputs": [],
                 "source": [
                     "# Define Volume Path & Seeds\n",
-                    "MY_ID = \"student_capstone\"\n",
+                    "MY_ID = \"23051628_SiddharthSonkar\"\n",
                     "VOL = f\"/Volumes/workspace/capstone_{MY_ID}/raw\"\n",
                     "print(f\"Target Storage Volume: {VOL}\")"
                 ]
